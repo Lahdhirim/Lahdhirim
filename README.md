@@ -24,36 +24,41 @@ AI Engineer @Orano • CentraleSupélec • Data & AI Systems
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### DataBases & Data Engineering
+### Databases & Big Data
 <div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="icons/Data/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="icons/Data/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="icons/Data/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="icons/Data/Apache_Spark_logo.png" alt="Apache Spark" height="50" /></a>  
+<a href="https://www.databricks.com/" target="_blank"><img style="margin: 10px" src="icons/Data/Databricks_logo.png" alt="Databricks" height="50" /></a>
+<a href="https://www.snowflake.com/fr/" target="_blank"><img style="margin: 10px" src="icons/Data/Snowflake_2.png" alt="Snowflake" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Python & AI  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="icons/Python/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="icons/Python/pytorch-icon.svg" alt="pytorch" height="50" /></a>
+<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="icons/Python/HF_icon.png" alt="Hugging Face" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="icons/Python/opencv-icon.svg" alt="OpenCV" height="50" /></a> 
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="icons/Python/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="icons/Python/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.langchain.com/" target="_blank"><img style="margin: 10px" src="icons/Python/LangChain-Logo.png" alt="LangChain" height="50" /></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="icons/Python/Scikit_learn_logo_small.png" alt="Scikit-Learn" height="50" /></a> 
+<a href="https://ollama.com/" target="_blank"><img style="margin: 10px" src="icons/Python/ollama.png" alt="Ollama" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
 
 ### MLOps  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="icons/MLOps/Amazon-Web-Services-Logo.png" alt="AWS" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="icons/MLOps/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="icons/MLOps/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="icons/MLOps/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="icons/MLOps/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="icons/MLOps/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
 
 </td></tr></table> 
@@ -71,6 +76,7 @@ AI Engineer @Orano • CentraleSupélec • Data & AI Systems
 </a>  
 </div>
 
+## Commits Animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lahdhirim/Lahdhirim/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lahdhirim/Lahdhirim/output/pacman-contribution-graph.svg">
