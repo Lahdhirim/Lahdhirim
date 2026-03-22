@@ -1,6 +1,3 @@
-<img align="right" height="150" src="assets/Logo.gif"  />
-  
-
 <h3 align="center">I'm Moetez, an AI Engineer</h3>
 - I’m currently working at Orano as an AI Engineer, where I design and implement AI solutions to solve complex business problems.
 
@@ -11,5 +8,6 @@
 </div>
 
 <br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/Lahdhirim/Lahdhirim/output/dist/snake.svg" alt="Snake animation" />
