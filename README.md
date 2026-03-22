@@ -1,6 +1,6 @@
 <div align="center">
-<video src="assets/video.mp4" align="center" style="width: 10%" autoplay loop muted></video>
-</div>  
+  <img src="assets/Logo.gif" width="120px" />
+</div>
   
 
 <h3 align="center">I'm Moetez, an AI Engineer</h3>
@@ -14,4 +14,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lahdhirim/Lahdhirim/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lahdhirim/Lahdhirim/output/dist/snake.svg" alt="Snake animation" />
