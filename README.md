@@ -30,7 +30,7 @@ AI Engineer @Orano • CentraleSupélec • Data & AI Systems
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="icons/Data/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="icons/Data/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="icons/Data/Apache_Spark_logo.png" alt="Apache Spark" height="50" /></a>  
-<a href="https://www.databricks.com/" target="_blank"><img style="margin: 10px" src="icons/Data/Databricks_logo.png" alt="Databricks" height="50" /></a>
+<a href="https://www.databricks.com/" target="_blank"><img style="margin: 10px" src="icons/Data/Databricks_Logo.png" alt="Databricks" height="50" /></a>
 <a href="https://www.snowflake.com/fr/" target="_blank"><img style="margin: 10px" src="icons/Data/Snowflake_2.png" alt="Snowflake" height="50" /></a> 
 </div>
 
@@ -61,7 +61,22 @@ AI Engineer @Orano • CentraleSupélec • Data & AI Systems
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="icons/MLOps/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
 
-</td></tr></table> 
+</td></tr></table>
+
+## Repository Structure & Philosophy
+
+Most of my repositories are organized by topic, indicated at the beginning of each repository name:
+
+- **ML** → Machine Learning  
+- **NLP** → Natural Language Processing  
+- **CV** → Computer Vision  
+- **GENAI** → Generative AI
+- **RAG** → Retrieval-Augmented Generation
+- **WEB** → Web development
+
+Some repositories also include a suffix to indicate the cloud platform used for the prototype deployment (e.g., `aws`, `vastai`, `huggingfacespaces`).
+
+These projects are part of my continuous learning journey. I build them to explore concepts, test ideas, and create solid foundations for more advanced AI applications. Feel free to fork, experiment, and adapt them to your own use cases
 
 ## Connect with me  
 <div align="center">
@@ -76,7 +91,7 @@ AI Engineer @Orano • CentraleSupélec • Data & AI Systems
 </a>  
 </div>
 
-## Commits Animation
+## Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lahdhirim/Lahdhirim/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lahdhirim/Lahdhirim/output/pacman-contribution-graph.svg">
