@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+<video src="assets/video.mp4" align="center" style="width: 10%" autoplay loop muted></video>
+</div>  
+  
 
-<!--
-**Lahdhirim/Lahdhirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm Moetez, an AI Engineer</h3>
+- I’m currently working at Orano as an AI Engineer, where I design and implement AI solutions to solve complex business problems.
 
-Here are some ideas to get you started:
+<br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lahdhirim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Lahdhirim/Lahdhirim/output/snake.svg" alt="Snake animation" />
