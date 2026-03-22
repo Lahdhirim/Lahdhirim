@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="assets/Logo.gif" width="120px" />
-</div>
+<img align="right" height="150" src="assets/Logo.gif"  />
   
 
 <h3 align="center">I'm Moetez, an AI Engineer</h3>
