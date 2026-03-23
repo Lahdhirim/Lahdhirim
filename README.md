@@ -13,14 +13,6 @@ AI Engineer @Orano • CentraleSupélec • Data & AI Systems
 - Background in Data Science and AI systems  
 - I'm passionate about AI and its potential to transform industries and improve lives. I enjoy working on projects on my free time to explore new AI techniques and applications.  
 
-<br/> 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lahdhirim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-<br clear="both">
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
